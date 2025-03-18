@@ -23,6 +23,3 @@ const reducer = (state = IntialState, action) => {
       return state;
   }
 };
-git add . && \
-> git commit -m"app->action->reducer->stateChange " && \
-> git push
